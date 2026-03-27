@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7285, 13.7196] },
+      "properties": { "municipio": "Sonsonate", "codigo": "1101", "poblacion": 71541, "area_km2": 185.06, "categoria": "ciudad", "es_cabecera": true }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.8274, 13.5938] },
+      "properties": { "municipio": "Acajutla", "codigo": "1102", "poblacion": 60486, "area_km2": 141.04, "categoria": "ciudad", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.4990, 13.7437] },
+      "properties": { "municipio": "Armenia", "codigo": "1103", "poblacion": 37171, "area_km2": 72.09, "categoria": "ciudad", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.6497, 13.7275] },
+      "properties": { "municipio": "Caluco", "codigo": "1104", "poblacion": 9928, "area_km2": 46.30, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7008, 13.6497] },
+      "properties": { "municipio": "Cuisnahuat", "codigo": "1105", "poblacion": 13531, "area_km2": 114.33, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7892, 13.6719] },
+      "properties": { "municipio": "Santa Isabel Ishuatán", "codigo": "1106", "poblacion": 14052, "area_km2": 74.65, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.6716, 13.7467] },
+      "properties": { "municipio": "Izalco", "codigo": "1107", "poblacion": 73848, "area_km2": 249.47, "categoria": "ciudad", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7524, 13.8427] },
+      "properties": { "municipio": "Juayúa", "codigo": "1108", "poblacion": 37087, "area_km2": 139.34, "categoria": "ciudad", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7228, 13.7806] },
+      "properties": { "municipio": "Nahuizalco", "codigo": "1109", "poblacion": 51810, "area_km2": 34.45, "categoria": "ciudad", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7537, 13.7389] },
+      "properties": { "municipio": "Nahulingo", "codigo": "1110", "poblacion": 16782, "area_km2": 25.21, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7467, 13.8208] },
+      "properties": { "municipio": "Salcoatitán", "codigo": "1111", "poblacion": 6969, "area_km2": 19.66, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7152, 13.7146] },
+      "properties": { "municipio": "San Antonio del Monte", "codigo": "1112", "poblacion": 29327, "area_km2": 35.05, "categoria": "ciudad", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.5732, 13.8205] },
+      "properties": { "municipio": "San Pablo Tacachico", "codigo": "1113", "poblacion": 8432, "area_km2": 91.18, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.7213, 13.7314] },
+      "properties": { "municipio": "Sonzacate", "codigo": "1114", "poblacion": 26488, "area_km2": 5.72, "categoria": "ciudad", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.6625, 13.6994] },
+      "properties": { "municipio": "Santo Domingo de Guzmán", "codigo": "1115", "poblacion": 9045, "area_km2": 30.87, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.6003, 13.7467] },
+      "properties": { "municipio": "San Julián", "codigo": "1116", "poblacion": 21506, "area_km2": 79.86, "categoria": "ciudad", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.6833, 13.8097] },
+      "properties": { "municipio": "Santa Catarina Masahuat", "codigo": "1117", "poblacion": 10290, "area_km2": 65.70, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.8008, 13.8744] },
+      "properties": { "municipio": "Apaneca", "codigo": "1118", "poblacion": 10015, "area_km2": 52.23, "categoria": "pueblo", "es_cabecera": false }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-89.8394, 13.8758] },
+      "properties": { "municipio": "Ataco", "codigo": "1119", "poblacion": 18935, "area_km2": 114.05, "categoria": "pueblo", "es_cabecera": false }
+    }
+  ]
+}
